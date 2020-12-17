@@ -33,9 +33,9 @@ Hashes still not cracked:
 
 References:
 
-  Combinations Code from Eric Lippert https://stackoverflow.com/questions/3093622/generating-all-possible-combinations/3098381#3098381
-  FNV http://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function
-  Fireeye cracked hashes https://github.com/fireeye/sunburst_countermeasures/blob/main/fnv1a_xor_hashes.txt 
+  - Combinations Code from Eric Lippert https://stackoverflow.com/questions/3093622/generating-all-possible-combinations/3098381#3098381
+  - FNV http://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function
+  - Fireeye cracked hashes https://github.com/fireeye/sunburst_countermeasures/blob/main/fnv1a_xor_hashes.txt 
 
 Example: 
 
