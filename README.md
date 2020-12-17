@@ -3,7 +3,7 @@ Raw C# code to bruteforce sunburst hashes
 ET Lownoise 2020
 
 	This by no means is the most efficient way to crack the sunburst hashes, i just wanted to learn a little more about the backdoor by bruteforcing
-  the Sunburst hashes. However Fireeye already had cracked most of them (https://github.com/fireeye/sunburst_countermeasures/blob/main/fnv1a_xor_hashes.txt) 
+ 	the Sunburst hashes. However Fireeye already had cracked most of them (https://github.com/fireeye/sunburst_countermeasures/blob/main/fnv1a_xor_hashes.txt) 
 	Still there are 22 hashes not cracked. I have left those defined in notdecoded_hashesb[] for someone with better hardware to try to brake them.
 
 Hashes still not cracked:
@@ -33,8 +33,8 @@ Hashes still not cracked:
 
 References:
 
-  Combinations Code from Eric Lippert https://stackoverflow.com/questions/3093622/generating-all-possible-combinations/3098381#3098381		
-	FNV http://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function
+  Combinations Code from Eric Lippert https://stackoverflow.com/questions/3093622/generating-all-possible-combinations/3098381#3098381
+  FNV http://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function
   Fireeye cracked hashes https://github.com/fireeye/sunburst_countermeasures/blob/main/fnv1a_xor_hashes.txt 
 
 Example: 
